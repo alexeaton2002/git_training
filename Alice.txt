@@ -2,3 +2,5 @@ Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 Adding remote change for "Updating the Dev Environment with remote changes"
 Making another remote change since I messed up the first
 Changing alice for pulling changes part
+Adding text for interactive rebase
+more text to alice
