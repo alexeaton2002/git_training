@@ -1,4 +1,8 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
+<<<<<<< HEAD
 Second line text for branching
 Changing alice for merging divergent branches
 adding more text for rebasing
+=======
+Adding remote change for "Updating the Dev Environment with remote changes"
+>>>>>>> ed1691107d161eb02a1e8f3d7281406c0e3fb9fd
