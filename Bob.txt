@@ -1,2 +1,3 @@
 Hi! I'm Bobby.  I've been here for a while now.
 New line for merging divergent branches
+Adding text for interactive rebase
